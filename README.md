@@ -21,30 +21,9 @@ Early stage. The design brief is submitted and the build has started.
 | Progress review | To be confirmed |
 | Demo Day | To be confirmed |
 
-## Stack
-
-- Python
-- FastAPI
-- SQLite
-
-## Getting started
-
-Setup instructions will be added once the first working version is in place.
-
-API keys go in a `.env` file, which is listed in `.gitignore`. Never commit keys to this repository.
-
 ## Data
 
 This project uses synthetic data only. All names, phone numbers and balances are fake, and no real personal or customer data is used anywhere.
-
-## Disclosure
-
-Every model, tool and AI assistant used in this project is listed here and kept up to date.
-
-| What | Used for |
-| --- | --- |
-| Claude | Design review |
-| Claude Code | Coding |
 
 ## Team
 
